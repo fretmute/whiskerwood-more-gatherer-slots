@@ -1,0 +1,7 @@
+OptionId | DisplayName | Description | ValuesArray | DefaultValue
+moregathererslots-enable |moregathererslots.setting.enable.name | moregathererslots.setting.enable.description | toggle.disabled, toggle.enabled | toggle.disabled
+moregathererslots-slot3-enable |moregathererslots.setting.slot3.enable.name | moregathererslots.setting.slot3.enable.description | toggle.disabled, toggle.enabled | toggle.disabled
+moregathererslots-slot3-education |moregathererslots.setting.slot3.education.name | moregathererslots.setting.slot3.education.description | moregathererslots.education.none, education.skilled, education.craftsmaster | moregathererslots.education.none
+moregathererslots-slot4-enable |moregathererslots.setting.slot4.enable.name | moregathererslots.setting.slot4.enable.description | toggle.disabled, toggle.enabled | toggle.disabled
+moregathererslots-slot4-education |moregathererslots.setting.slot4.education.name | moregathererslots.setting.slot4.education.description | moregathererslots.education.none, education.skilled, education.craftsmaster | moregathererslots.education.none
+moregathererslots-lastslotbonus |moregathererslots.setting.lastslotbonus.name | moregathererslots.setting.lastslotbonus.description | toggle.disabled, toggle.enabled | toggle.disabled

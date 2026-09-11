@@ -1,0 +1,16 @@
+Key | Value
+
+# Settings
+moregathererslots.setting.enable.name | More Gatherer Slots - Enable
+moregathererslots.setting.enable.description | Enables or disables the more gatherer slots mod.
+moregathererslots.setting.slot3.enable.name | More Gatherer Slots - Slot 3 Enable
+moregathererslots.setting.slot3.enable.description | Enables or disables gatherer slot 3.
+moregathererslots.setting.slot3.education.name | More Gatherer Slots - Slot 3 Education
+moregathererslots.setting.slot3.education.description | Selects the education necessary for gatherer slot 3.
+moregathererslots.setting.slot4.enable.name | More Gatherer Slots - Slot 4 Enable
+moregathererslots.setting.slot4.enable.description | Enables or disables gatherer slot 4.
+moregathererslots.setting.slot4.education.name | More Gatherer Slots - Slot 4 Education
+moregathererslots.setting.slot4.education.description | Selects the education necessary for gatherer slot 4.
+moregathererslots.setting.lastslotbonus.name | More Gatherer Slots - Last Slot Bonus
+moregathererslots.setting.lastslotbonus.description | If enabled, the last slot will apply a bonus if filled.
+moregathererslots.education.none | None
