@@ -2,11 +2,11 @@
 A mod for adding additional worker slots to gathering structures.
 
 ## Overview
-- Provides the ability to add one or two more slots two each of the gathering structures:
-  - Gathering Hut
+- Provides the ability to add one or two more slots to each of the gathering structures:
   - Farm
+  - Forage Hut
   - Mining Camp
-  - Woodcutters Camp
+  - Woodcutter
 - Each slot can be configured for one of three required skill levels:
   - None
   - Apprentice
