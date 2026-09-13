@@ -2,7 +2,8 @@
 A mod for adding additional worker slots to gathering structures.
 
 ## Overview
-- Provides the ability to add one or two more slots to each of the gathering structures:
+- Provides the ability to add one or two more slots to each of the structures on the resource extraction tab:
+  - Earthworks
   - Farm
   - Forage Hut
   - Mining Camp
@@ -11,7 +12,7 @@ A mod for adding additional worker slots to gathering structures.
   - None
   - Apprentice
   - Craftsmaster
-- The final slot can be configured to apply a bonus to the camp if it is filled.
+- The final slot can be configured to apply a bonus to the structure if it is filled.
 
 ## Settings
 - Note that all settings require a restart to change. The fixes are applied immediately when the game starts.
