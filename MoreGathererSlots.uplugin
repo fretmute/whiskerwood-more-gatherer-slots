@@ -1,7 +1,7 @@
 {
     "Name" : "More Gatherer Slots",
     "Description" : "A mod for adding additional worker slots to gathering structures.",
-    "Version" : "0.1.2.0-instrumentation-Patch#27",
+    "Version" : "0.1.2.1-instrumentation-Patch#27",
     "CreatedBy" : "Fretmute",
     "CreatedByURL" : "https://github.com/fretmute/whiskerwood-more-gatherer-slots"
 }

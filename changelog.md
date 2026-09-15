@@ -1,5 +1,8 @@
 ## Changelog
 
+### 0.1.2.1
+- Fixed missing logical NOT that led to bonus being applied to more than just the last slot when enabled.
+
 ### 0.1.2.0
 - Added Earthworks to the list of modified structures, because it's on the resource extraction tab, although it explicitly consumes resources. ¯\_(ツ)_/¯
 
