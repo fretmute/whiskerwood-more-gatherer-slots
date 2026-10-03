@@ -1,5 +1,8 @@
 ## Changelog
 
+### 0.2.0.0
+ - Updated for Unreal 5.8.
+
 ### 0.1.2.1
 - Fixed missing logical NOT that led to bonus being applied to more than just the last slot when enabled.
 
